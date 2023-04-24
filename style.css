@@ -141,18 +141,18 @@ li > input[type="text"] {
   width: 226px;
 }
 
-button.delete img {
+button.btn-task-delete img {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-button.delete img:hover {
+button.btn-task-delete img:hover {
   transform: rotateZ(0);
 }
 
 /* Completed */
-ul#completed-tasks label {
+ul#complete-tasks label {
   text-decoration: line-through;
   color: #888;
 }
