@@ -37,7 +37,7 @@
 .task__part {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .task-add {
@@ -155,15 +155,15 @@
 
 /* Edit Task */
 .task .task__item .task__input-text {
-  display:none
+  display:none;
 }
 
 .task .task__item-edit .task__label {
-  display:none
+  display:none;
 }
 
 .task-incomplete .task__item-edit .task__input-text {
   display:inline-block;
-  width:224px
+  width:224px;
 }
 
