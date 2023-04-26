@@ -67,7 +67,7 @@ button:hover {
 }
 /* Heading */
 .task-heading,
-label[for='task__input-new'] {
+.task__label[for='task__input-new'] {
     color: #333;
     font-weight: 700;
     font-size: 15px;
