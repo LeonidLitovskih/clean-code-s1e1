@@ -143,6 +143,7 @@
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
+
 .task__btn-delete .task__img-delete:hover {
   transform: rotateZ(0);
 }
